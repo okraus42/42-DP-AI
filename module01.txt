@@ -1,0 +1,55 @@
+Ex00:
+Job Title:
+Prompt Engineer
+
+Main Mission:
+As a Prompt Engineer, you will design, refine, and evaluate prompts to optimize the performance of large language models (LLMs) across various use cases. You'll collaborate with product, data, and engineering teams to ensure AI outputs are accurate, safe, and aligned with business needs.
+
+Required Skills:
+Technical:
+- Understanding of NLP concepts and LLM behavior
+- Experience writing and testing prompts for generative AI systems
+- Familiarity with Python and APIs (e.g., OpenAI, Claude, Hugging Face)
+- Ability to analyze model performance qualitatively and quantitatively
+
+Behavioral:
+- Strong written and verbal communication
+- Creative thinking and attention to detail
+- Collaborative and user-focused mindset
+- Awareness of AI safety and ethical considerations
+
+Qualifications:
+- Bachelor's degree in Computer Science, Linguistics, Cognitive Science, HCI, or a related field (Master’s a plus)
+- Experience with AI/ML systems, chatbots, or NLP applications
+- Background in prompt design, UX writing, content strategy, or technical writing is a plus
+- No strict experience requirement – self-learners and career changers welcome
+
+Workplace:
+Remote-first (with optional hybrid office access, location flexible)
+
+Employment Conditions:
+Permanent, full-time (freelance or contract options available for qualified candidates)
+
+Ex01:
+
+
+Ex02:
+
+
+Ex03:
+
+
+Ex04:
+
+
+Ex05:
+
+
+Ex06:
+
+
+Ex07:
+
+
+Ex08:
+
