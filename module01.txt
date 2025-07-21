@@ -31,25 +31,146 @@ Employment Conditions:
 Permanent, full-time (freelance or contract options available for qualified candidates)
 
 Ex01:
+Prompt:
+Generate several slogan proposals for a fictitious  company:
+Company name: Megadodo Publications
+Field: Book publishing
+Format it in textfield so I can copy it in txt
+
+ChatGPT said:
+Megadodo Publications - Slogan Proposals
+
+Professional & Inspiring:
+1. Publishing Ideas That Shape Tomorrow.
+2. Books That Speak. Stories That Stay.
+3. Turning Words into Worlds.
+4. Crafting Literature with Purpose.
+
+Quirky & Creative:
+5. Extinct Birds. Everlasting Stories.
+6. Where Odd Birds Tell Brilliant Tales.
+7. Seriously Good Books from Seriously Strange Minds.
+
+Bold & Impactful:
+8. Rewrite the World—One Book at a Time.
+9. Unleashing the Power of the Page.
+10. Books That Break the Mold.
+
+Reader-Focused:
+11. For Readers Who Think Differently.
+12. Fuel for the Curious Mind.
+13. Your Next Obsession Is in Print.
 
 
 Ex02:
+Transform this motivation letter written in common, informal language into a high-level, professional language:
 
+Dear Sir/Madam,
+I am writing to you to apply for your telemarketing position. I believe I am cut out for this because I like talking to people, and I am sure I can sell well. I have already worked in things where you have to talk, like at the checkout, so I already know how to do it.
+I am motivated to work for you, as I need a stable job. I know the phone well, and I am ready to start right away. If you give me my chance, I will prove myself useful.
+Looking forward to a quick response from you, I remain available to meet you if necessary.
+Best regards,
 
 Ex03:
+Translate this text from English to French as accurately as possible:
 
+Artificial intelligence (AI) systems are increasingly used in recruitment, particularly for pre-selecting CVs. However, despite their appearance of neutrality, these technologies can reproduce and even reinforce human biases. One of the main concerns about the use of AI in CV sorting is the way it can perpetuate discrimination based on characteristics such as age, gender, or ethnic origin.
+
+For example, an AI trained on historical data could learn to favor white candidates over 50 years old if, in the past, this group was overrepresented in the positions to be filled. The algorithm, based on this data, could conclude that this profile is the most likely to succeed, even if this simply reflects prejudices and discriminatory practices in the recruitment process. This bias can manifest subtly, for example, by giving exaggerated importance to certain experiences or training that are statistically more common among people in this group.
+
+Similarly, for positions perceived as traditionally female, such as nursing jobs, an AI could favor women’s CVs. If historical data shows that the majority of people in these positions were women, the algorithm could develop an association between the female gender and success in this type of role, potentially excluding qualified men.
+
+These biases are not intentional, but they are inherent in the operation of AIs that rely on past data. If the training data reflects inequalities or stereotypes, the algorithm’s decisions will be biased. It is therefore crucial to use diversified data and to set up bias correction mechanisms to prevent the AI from reproducing discriminatory patterns. Companies must also be vigilant in regularly evaluating the algorithms used in their recruitment processes to ensure that these tools contribute to greater fairness, rather than perpetuating existing inequalities.
+In short, the use of AIs in CV selection carries risks of bias related to age, gender, and ethnic origin. It is essential to take measures to ensure that these tools do not become amplifiers of injustices, but rather levers to promote inclusion and diversity.
 
 Ex04:
+Prompt1:
+Correct all the grammatical mistakes in this email:
 
+Hello,
+I just received your request regarding the possibility of getting a refund on the product you bought from us. Unfortunately, after checking, we are not able to grant your request.
+Indeed, our return policy does not allow refunds in this kind of situation, especially after the deadline that was indicated in the purchase conditions.
+I understand that this situation can be disappointing, but we cannot grant you an exception. We do everything possible to satisfy our customer, but in this case, it’s impossible to go further with the refund request.
+Hoping that you will continue to trust our service, we remain at your disposal for any other question or concern.
+Best regards, [Your name] Customer Service
+
+Prompt2:
+Now also replace all overly complex grammatical structures. The goal is to transform it into an error-free, easy-to-read email, while ensuring professional and polished tone.
 
 Ex05:
+[SLIDE 1]  
+**Introduction to Deep Learning**  
+- A subset of machine learning based on artificial neural networks  
+- Inspired by the human brain's structure and function  
+- Enables machines to learn from large amounts of data  
 
+[SLIDE 2]  
+**How Deep Learning Works**  
+- Uses layers of neurons (input, hidden, output)  
+- Each layer extracts features from data  
+- Learns patterns through backpropagation and optimization  
+
+[SLIDE 3]  
+**Key Applications**  
+- Image & speech recognition  
+- Natural language processing (NLP)  
+- Autonomous vehicles  
+- Medical diagnosis  
+
+[SLIDE 4]  
+**Popular Architectures**  
+- Convolutional Neural Networks (CNNs) – image tasks  
+- Recurrent Neural Networks (RNNs) – sequential data  
+- Transformers – language and vision tasks  
+
+[SLIDE 5]  
+**Challenges & Considerations**  
+- Requires large datasets and computational power  
+- Interpretability of models is limited  
+- Risk of overfitting and bias  
+- Ongoing research in ethics and fairness
 
 Ex06:
+Title: Earth 2100 – A Converging Future
+1. The Climate-Adapted Planet
+Summary:
+By 2100, average global temperatures have risen by 2.5–3°C. Coastal cities have implemented massive flood defenses or relocated inland. Agriculture has shifted geographically due to changes in rainfall and heat, with vertical farms and desalination-powered irrigation becoming critical. Carbon capture and solar geoengineering are deployed cautiously to stabilize the climate.
 
+2. Post-Scarcity Energy
+Summary:
+Solar, wind, nuclear fusion, and advanced battery technologies have replaced fossil fuels almost entirely. Power is cheap, abundant, and decentralized. Smart grids balance global energy demands, and hydrogen is widely used for transport and industrial applications.
+
+3. The AI-Guided Economy
+Summary:
+Artificial intelligence has transformed the global economy. Routine jobs are almost fully automated. AI advisors manage personal finance, career development, logistics, and governance. Universal Basic Income (UBI) or similar support systems are common, enabling people to pursue creative, caregiving, or scientific endeavors.
+
+4. The Rise of Mega-Cities and Climate Retreat Zones
+Summary:
+Urban populations dominate, with mega-cities housing 50+ million people each. Some low-lying nations have fully relocated. In contrast, “climate retreat zones” in the Arctic, Scandinavia, and parts of Canada and Russia become new economic hubs, attracting climate migrants and development.
+
+5. Health, Longevity, and Bioenhancement
+Summary:
+Thanks to gene editing (like CRISPR), AI diagnostics, and nanomedicine, average life expectancy now exceeds 100 years in many countries. Aging is treated more like a manageable condition than an inevitability. Some opt for cognitive and physical enhancements, raising ethical and social questions.
+
+6. The Learning Ecosystem
+Summary:
+Education is lifelong, AI-personalized, and immersive. Virtual and augmented reality classrooms allow global collaboration. Traditional degrees are replaced by skill-based certifications updated in real time. Curiosity-driven learning is prioritized over rigid curricula.
+
+7. Society and Identity in Flux
+Summary:
+Cultural identities have become more fluid in a globally connected world. With virtual communities outweighing geographic ones, people often belong to multiple digital "nations." Gender, ethnicity, and nationality are more self-defined. Mental health is a core public health focus, supported by AI therapists and community hubs.
+
+8. Governance in a Networked World
+Summary:
+Governance has moved toward transparency and decentralization. Blockchain-based systems ensure secure voting and real-time citizen feedback. AI helps policymakers simulate the outcomes of decisions before they are implemented. Supranational bodies have more authority in managing climate, migration, and digital rights.
+
+9. The Earth and Beyond
+Summary:
+Space colonization has begun with permanent settlements on the Moon and Mars, primarily for scientific and commercial purposes. Asteroid mining is a reality. Space travel is not yet mainstream but is expanding rapidly. Earth remains humanity’s home, but the species is now multi-planetary.
+
+10. Ethics, Risk, and Human Purpose
+Summary:
+Humanity faces philosophical questions: What is meaningful work in a post-labor society? Should there be limits to human enhancement? Can AI truly understand human values? Amid progress, the 22nd century begins with an awareness of risks—technological, ecological, and existential—balanced by cautious optimism and a drive for shared purpose.
 
 Ex07:
-
-
-Ex08:
-
+Module 01 - complete.
