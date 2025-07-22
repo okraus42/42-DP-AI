@@ -15,31 +15,35 @@ Ex02:
 
 
 
-Ex0:
+Ex03:
 
 
 
-Ex0:
+Ex04:
+Craiyon:
+Generate a chart that illustrates the evolution of the global population over the last 2000 years.
+
+ChatGPT:
+Generate a chart that illustrates the evolution of the global population over the last 2000 years.
+
+
+Ex05:
 
 
 
-Ex0:
+Ex06:
 
 
 
-Ex0:
+Ex07:
 
 
 
-Ex0:
+Ex08:
 
 
 
-Ex0:
-
-
-
-Ex0:
+Ex09:
 
 
 
