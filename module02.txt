@@ -12,11 +12,14 @@ Draw me a sheep inside a box in a pop-art style
 https://www.craiyon.com/image/MZlhTkf-QXSkXUBmtney0Q
 
 Ex02:
-
-
+Generate artificial neural network image
+generate complex neural network with layers
+Generate image illustrating Key applications of deep learneing and AI such as autonomus vehicle or speech recognition
+Generate image of facial recognition, with person facing the camera, left half face should be digital and robotic, right half should be human, around the face should be green rectangle with label "Jane Doe" identifying the person.
+Generate abstract image of AI with yellow warning triangle
 
 Ex03:
-
+Create a logo for Megadodo Publications. The logo should be on white background with orange silhouette of dodo bird. Under the bird should be the following slogan "Publishing Ideas That Shape Tomorrow."
 
 
 Ex04:
@@ -28,30 +31,21 @@ Generate a chart that illustrates the evolution of the global population over th
 
 
 Ex05:
-
-
+https://slidesgo.com/ai/presentation-maker
+Prompt:
+Generate content for up to 5 slides about deep learning (https://en.wikipedia.org/wiki/Deep_learning)  for a presentation. Do not put too much text there and put relevant images.
+File:
+m02ex05_UnderstandingDeepLearning.pptx
 
 Ex06:
-
+m02ex06.html
 
 
 Ex07:
-
+m02ex07.html
 
 
 Ex08:
 Room with a bed with green blanket. Red cat with blue eyes lies on the bed.
 https://www.craiyon.com/image/blkzjmTsQSOWmp8Q6Ky0_Q
-
-Ex09:
-
-
-
-Ex0:
-
-
-
-Ex0:
-
-
 

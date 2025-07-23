@@ -83,6 +83,20 @@ Similarly, for positions perceived as traditionally female, such as nursing jobs
 These biases are not intentional, but they are inherent in the operation of AIs that rely on past data. If the training data reflects inequalities or stereotypes, the algorithm’s decisions will be biased. It is therefore crucial to use diversified data and to set up bias correction mechanisms to prevent the AI from reproducing discriminatory patterns. Companies must also be vigilant in regularly evaluating the algorithms used in their recruitment processes to ensure that these tools contribute to greater fairness, rather than perpetuating existing inequalities.
 In short, the use of AIs in CV selection carries risks of bias related to age, gender, and ethnic origin. It is essential to take measures to ensure that these tools do not become amplifiers of injustices, but rather levers to promote inclusion and diversity.
 
+Here is the French translation of the text, rendered as accurately and professionally as possible:
+
+Les systèmes d’intelligence artificielle (IA) sont de plus en plus utilisés dans le recrutement, notamment pour la présélection des CV. Cependant, malgré leur apparente neutralité, ces technologies peuvent reproduire, voire renforcer, les biais humains. L’un des principaux sujets de préoccupation concernant l’utilisation de l’IA dans le tri des CV réside dans sa capacité à perpétuer des discriminations fondées sur des caractéristiques telles que l’âge, le genre ou l’origine ethnique.
+
+Par exemple, une IA entraînée à partir de données historiques pourrait apprendre à favoriser des candidats blancs de plus de 50 ans si, par le passé, ce groupe était surreprésenté dans les postes à pourvoir. L’algorithme, basé sur ces données, pourrait en conclure que ce profil est le plus susceptible de réussir, alors qu’il ne fait que refléter des préjugés et des pratiques discriminatoires présents dans le processus de recrutement. Ce biais peut se manifester de manière subtile, par exemple en accordant une importance excessive à certaines expériences ou formations statistiquement plus fréquentes chez les personnes appartenant à ce groupe.
+
+De la même manière, pour des postes traditionnellement perçus comme féminins, tels que les emplois dans le domaine infirmier, une IA pourrait favoriser les CV de femmes. Si les données historiques montrent que la majorité des personnes occupant ces postes étaient des femmes, l’algorithme pourrait développer une association entre le genre féminin et la réussite dans ce type de rôle, excluant ainsi potentiellement des hommes qualifiés.
+
+Ces biais ne sont pas intentionnels, mais ils sont inhérents au fonctionnement des IA qui s’appuient sur des données du passé. Si les données d’apprentissage reflètent des inégalités ou des stéréotypes, les décisions de l’algorithme seront biaisées. Il est donc crucial d’utiliser des données diversifiées et de mettre en place des mécanismes de correction des biais afin d’éviter que l’IA ne reproduise des schémas discriminatoires. Les entreprises doivent également faire preuve de vigilance en évaluant régulièrement les algorithmes utilisés dans leurs processus de recrutement, afin de s’assurer que ces outils contribuent à plus d’équité, et non à la perpétuation des inégalités existantes.
+
+En somme, l’usage des IA dans la sélection de CV comporte des risques de biais liés à l’âge, au genre et à l’origine ethnique. Il est essentiel de prendre des mesures pour que ces outils ne deviennent pas des amplificateurs d’injustices, mais plutôt des leviers au service de l’inclusion et de la diversité.
+
+Let me know if you'd like this adapted for a specific audience, such as a corporate or academic context.
+
 Ex04:
 Prompt1:
 Correct all the grammatical mistakes in this email:
@@ -98,6 +112,9 @@ Prompt2:
 Now also replace all overly complex grammatical structures. The goal is to transform it into an error-free, easy-to-read email, while ensuring professional and polished tone.
 
 Ex05:
+Prompt:
+Generate content for up to 5 slides about deep learning (https://en.wikipedia.org/wiki/Deep_learning)  for a presentation. Do not put too much text there. Write the content into the text field with contents of each slide prefaced with "[SLIDE n]" without the quotes where n is the number of the slide.
+
 [SLIDE 1]  
 **Introduction to Deep Learning**  
 - A subset of machine learning based on artificial neural networks  
